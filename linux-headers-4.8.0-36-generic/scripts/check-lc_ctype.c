@@ -1,0 +1,1 @@
+../../linux-headers-4.8.0-36/scripts/check-lc_ctype.c
